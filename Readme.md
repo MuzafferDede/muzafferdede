@@ -1,9 +1,12 @@
-```
-v7 · staff engineer, AI-native development
-v6 · senior full stack engineer
-v5 · tech lead
-v4 · full stack engineer
-v3 · frontend developer
-v2 · web developer
-v1 · UI designer
+```mermaid
+%%{init: {'gitGraph': {'mainBranchName': 'career'}}}%%
+gitGraph TB:
+  commit id: "UI designer"
+  commit id: "web developer"
+  commit id: "frontend developer"
+  commit id: "full stack engineer"
+  commit id: "tech lead"
+  commit id: "senior full stack engineer"
+  branch ai-native
+  commit id: "staff engineer" type: HIGHLIGHT
 ```
