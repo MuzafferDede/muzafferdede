@@ -2,7 +2,6 @@
 %%{init: {'gitGraph': {'mainBranchName': 'career'}}}%%
 gitGraph LR:
   commit id: "UI designer"
-  commit id: "web developer"
   commit id: "frontend developer"
   commit id: "full stack engineer"
   commit id: "senior engineer"
