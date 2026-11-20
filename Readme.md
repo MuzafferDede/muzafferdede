@@ -1,11 +1,15 @@
 ```mermaid
-%%{init: {'gitGraph': {'mainBranchName': 'career'}}}%%
+%%{init: {'gitGraph': {'mainBranchName': 'ui-designer', 'showCommitLabel': false}}}%%
 gitGraph LR:
-  commit id: "UI designer"
-  commit id: "frontend developer"
-  commit id: "full stack engineer"
-  commit id: "senior engineer"
-  commit id: "tech lead"
-  branch ai-native
-  commit id: "staff engineer" type: HIGHLIGHT
+  commit
+  branch frontend-developer
+  commit
+  branch full-stack-engineer
+  commit
+  branch senior-engineer
+  commit
+  branch tech-lead
+  commit
+  branch staff-engineer
+  commit type: HIGHLIGHT tag: "AI-native"
 ```
