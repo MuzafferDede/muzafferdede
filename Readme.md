@@ -1,5 +1,5 @@
 ```mermaid
-%%{init: {'gitGraph': {'mainBranchName': 'ui-designer', 'mainBranchOrder': 5, 'showCommitLabel': false}}}%%
+%%{init: {'gitGraph': {'mainBranchName': 'ui-designer', 'mainBranchOrder': 5, 'showCommitLabel': false, 'diagramPadding': 60}}}%%
 gitGraph LR:
   commit
   commit
