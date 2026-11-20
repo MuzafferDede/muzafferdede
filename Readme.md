@@ -1,15 +1,15 @@
 ```mermaid
-%%{init: {'gitGraph': {'mainBranchName': 'ui-designer', 'showCommitLabel': false}}}%%
+%%{init: {'gitGraph': {'mainBranchName': 'ui-designer', 'mainBranchOrder': 5, 'showCommitLabel': false}}}%%
 gitGraph LR:
   commit
-  branch frontend-developer
+  branch frontend-developer order: 4
   commit
-  branch full-stack-engineer
+  branch full-stack-engineer order: 3
   commit
-  branch senior-engineer
+  branch senior-engineer order: 2
   commit
-  branch tech-lead
+  branch tech-lead order: 1
   commit
-  branch staff-engineer
+  branch staff-engineer order: 0
   commit type: HIGHLIGHT tag: "AI-native"
 ```
