@@ -5,8 +5,8 @@ gitGraph LR:
   commit id: "web developer"
   commit id: "frontend developer"
   commit id: "full stack engineer"
+  commit id: "senior engineer"
   commit id: "tech lead"
-  commit id: "senior full stack engineer"
   branch ai-native
   commit id: "staff engineer" type: HIGHLIGHT
 ```
