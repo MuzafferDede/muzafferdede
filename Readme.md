@@ -1,6 +1,6 @@
 ```mermaid
 %%{init: {'gitGraph': {'mainBranchName': 'career'}}}%%
-gitGraph LR:
+gitGraph BT:
   commit id: "UI designer"
   commit id: "web developer"
   commit id: "frontend developer"
