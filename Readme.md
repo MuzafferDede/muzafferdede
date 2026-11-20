@@ -10,6 +10,6 @@ gitGraph LR:
   commit
   branch tech-lead order: 1
   commit
-  branch staff-engineer order: 0
-  commit type: HIGHLIGHT tag: "AI-native"
+  branch staff-engineer/ai-native order: 0
+  commit type: HIGHLIGHT
 ```
